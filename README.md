@@ -26,8 +26,7 @@ Outros:
 
 ## 📁 Estrutura do Projeto
 - `code/`: Código-fonte em Arduino (.ino)
-- `esquematicos/`: Imagens ou esquemas de montagem
-- `docs/`: Relatório do projeto e outros documentos
+- `docs/`: Link do Relatório do projeto 
 
 ## 👨‍🏫 Disciplina
 Desenvolvido para a disciplina de **Eletronica Digital II**, Universidade Federal do Amazonas.
