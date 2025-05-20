@@ -6,17 +6,24 @@ Projeto de uma cafeteira automática com Arduino, desenvolvido na disciplina de 
 
 
 ## 🔧 Componentes Utilizados
-Microcontrolador: arduino uno
-Sensores: 
-  3 Potenciômetros para nível de grão, borra e temperatura
-  1 Water sensor  (sensor de nivel de agua)
+Microcontrolador: arduino uno.
+
+Sensores:
+
+  3 Potenciômetros para nível de grão, borra e temperatura,
+  1 Water sensor  (sensor de nivel de agua).
+  
 Atuadores:
-  Bomba d’água(representado por um LED)
-  Resistência elétrica(representado por um LED)
+
+  Bomba d’água(representado por um LED),
+  Resistência elétrica(representado por um LED).
+  
 Módulo de interface:
-  Teclado matricial 4x4
-  Display LCD 16x2 
-  Módulo serial i2c
+
+  Teclado matricial 4x4,
+  Display LCD 16x2, 
+  Módulo serial i2c.
+  
 Outros:
   Fonte de alimentação: 5V DC.
 
