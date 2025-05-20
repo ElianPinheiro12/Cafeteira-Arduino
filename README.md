@@ -41,3 +41,6 @@ Desenvolvido para a disciplina de **Eletronica Digital II**, Universidade Federa
 [Franklin Alex Ramos da Silva Pinheiro Junior]
 [Rodrigo Martins Henrique]
 
+![image](https://github.com/user-attachments/assets/ebd83579-d83f-4b84-bfcb-d86eef703b56)
+
+
